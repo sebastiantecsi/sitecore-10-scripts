@@ -1,7 +1,7 @@
 # Credit primarily to jermdavis for the original script
 
 Param(
-    [string]$solrVersion = "8.1.1",
+    [string]$solrVersion = "8.4.0",
     [string]$installFolder = "c:\solr",
     [string]$solrPort = "8984",
     [string]$solrHost = "localhost",
